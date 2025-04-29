@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpTestBench", "SharpTestBench\SharpTestBench.csproj", "{F8273C71-02B9-4B3D-A588-56C803D8C806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8273C71-02B9-4B3D-A588-56C803D8C806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8273C71-02B9-4B3D-A588-56C803D8C806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8273C71-02B9-4B3D-A588-56C803D8C806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8273C71-02B9-4B3D-A588-56C803D8C806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
