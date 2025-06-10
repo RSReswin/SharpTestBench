@@ -1,3 +1,3 @@
 ﻿using SharpTestBench.Benches;
 
-await MediaTookKitBench.VideoUrlToSingeImageConverterAsync();
+await IdeHotReload_Benche.StartLogAsync();
