@@ -17,6 +17,7 @@
 
     <ItemGroup>
       <PackageReference Include="MediaToolkit" Version="1.1.0.1" />
+      <PackageReference Include="Xabe.FFmpeg" Version="6.0.1" />
     </ItemGroup>
 
 </Project>

@@ -1,3 +1,3 @@
 ﻿using SharpTestBench.Benches;
 
-await IdeHotReload_Benche.StartLogAsync();
+await MediaTookKitBench.ConvertVideoToM3U8FormateAsync();
